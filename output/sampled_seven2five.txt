@@ -1,0 +1,12 @@
+The input seven sentence is	<bos>去來夫子本無情，奇字新經志不成。<eos>
+The input five sentence can be
+高水近詩出，倚濟聲難欲。<eos>
+亭書升遊惜，賞紫天邑宇。<eos>
+此州空胸俠，秦煙夜眸辨。<eos>
+驚有纍驚旂，塵宇楊歸行。<eos>
+動既頼入第，夕仍扣閑通。<eos>
+不依渺捜雪，苦樂鷗崖歸。<eos>
+紅法俯旁客，疎造熯藥萬。<eos>
+堪明已似永，久如一爲水。<eos>
+千乳飲悔人，環渡聱高行。<eos>
+子鴻無家幽，警然可子遍。<eos>
