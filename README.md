@@ -1,7 +1,7 @@
 # Unsupervised-Chinese-peotry-text-style-transfer  
 ## COMS6998 - Practical Deep Learning Systems Performance - Final Project 
 ### Discription
-- This is a model that aim at convert a five-word sentence to a seven-word sentence, and is a implementation of  [A Probabilistic Formulation of Unsupervised Text Style Transfer!](https://arxiv.org/abs/2002.03912)
+- This is a model that aim at convert a five-word sentence to a seven-word sentence, and is a implementation of  [A Probabilistic Formulation of Unsupervised Text Style Transfer](https://arxiv.org/abs/2002.03912)
 
 ### Introduction  
 - The original data is in folder **data** and the cleaned data is also in it named **five** and **seven**. 
