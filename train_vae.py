@@ -8,6 +8,8 @@ import torch.nn.functional as F
 from torch.autograd import Variable
 import random
 
+print('test202208')
+
 file=open("data/five","rb")
 five=pickle.load(file) 
 file=open("data/seven","rb")
